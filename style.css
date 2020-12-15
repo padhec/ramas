@@ -1,3 +1,13 @@
 body {
   background-color: blueviolet;
 }
+
+.footer-container {
+  background-color: tan;
+  height: 200px;
+  text-align: center;
+}
+
+.footer-title {
+  color: white;
+}
